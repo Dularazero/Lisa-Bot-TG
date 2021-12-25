@@ -17,7 +17,7 @@ class script(object):
 But If You Like You Can Deploy Eva Maria..👀 (This Bot Is Edited & Updated Version Of Eva Maria)
 
 <b>DEVS:</b>
-- <a href=https://t.me/Zer_0XD</a>"""
+- <a href=https://t.me/Zer_0XD>Zero Two</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
